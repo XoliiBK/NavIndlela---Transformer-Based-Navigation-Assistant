@@ -124,6 +124,4 @@ Later ideas:
 
 In development. Built as a learning-focused project and not production-ready.
 
-## License
 
-MIT
