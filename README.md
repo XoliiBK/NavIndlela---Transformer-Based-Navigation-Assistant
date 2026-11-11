@@ -1,4 +1,4 @@
-# NavIndlela 🧭
+# NavIndlela 
 
 I'm building this to understand how language models actually work, not just how to call one through an API. NavIndlela is a navigation assistant for a fictional town: a small transformer language model, trained from scratch on synthetic route data, wrapped in a system that checks every route it generates against a traditional pathfinding algorithm.
 
