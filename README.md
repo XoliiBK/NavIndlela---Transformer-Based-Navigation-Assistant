@@ -80,7 +80,7 @@ Return Route   Pathfinding
 | Technology | Purpose |
 |---|---|
 | Python | Core development |
-| PyTorch | Transformer implementation and model training |
+| PyTorch | Transformer implementation and model training (custom Transformer, built from scratch) |
 | FastAPI | Backend API development |
 
 ## Evaluation Strategy
@@ -163,4 +163,4 @@ NavIndlela/
 
 ---
 
-**Built with Python and PyTorch and .**
+**Built with Python, PyTorch and FastAPI.**
